@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Learing express with Stanley",
+        "text": "Homework is better on the third try..  Video included this time   :)",
+        "id": "9a1e1810-7b01-11ec-8542-cdf92aa672c0"
+    },
+    {
+        "title": "Note 3",
+        "text": "Here is another note",
+        "id": "beffed70-7b01-11ec-8542-cdf92aa672c0"
     }
 ]
